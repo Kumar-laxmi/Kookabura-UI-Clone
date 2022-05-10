@@ -83,3 +83,8 @@ a.btn-light:hover {
     border: none;
     transition: transform 0.6s ease-in-out;
 }
+
+.banner-dark {
+    background-color: #151d21;
+    color: white;
+}
