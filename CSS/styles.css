@@ -20,8 +20,8 @@
 .text2 {
     font-family: "Nike Futura";
     font-weight: 500;
-    font-size: 72px;
-    line-height: 60px;
+    font-size: 32px;
+    line-height: 20px;
     margin-bottom: 8px;
 }
 
@@ -92,4 +92,15 @@ a.btn-light:hover {
 .banner-light {
     background-color: #84d103;
     color: white;
+}
+
+.para-big {
+    color: black;
+    font-size:16px;
+    font-weight: bold;
+}
+
+.para-small {
+    color:#84d103;
+    font-size: 14px;
 }
